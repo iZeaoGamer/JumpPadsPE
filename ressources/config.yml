@@ -1,0 +1,6 @@
+---
+#Put the block ID first and after the power of the JumpPad.
+#Note that you can add as much as you want of blocks. 
+214: 11 #214->Block_ID: 11->Power of the JumpPad
+152: 15
+...
